@@ -3,13 +3,13 @@
 <img align="right" width="400"img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer">
 <p align="left"> <a href="https://twitter.com/pranavk2003" target="blank"><img src="https://img.shields.io/twitter/follow/pranavk2003?logo=twitter&style=for-the-badge" alt="pranavk2003" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, MERN**
+- 🌱Software Developer
 
 - 📫 How to reach me **khandagalepranav1546@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pranav-khandagale-977837221/](https://www.linkedin.com/in/pranav-khandagale-/)
 
-- ⚡  **I am a Coding Maniac 🤔😶‍🌫️😌**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
